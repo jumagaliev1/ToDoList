@@ -5,6 +5,8 @@
       <map>
         <entry key="..\:/Users/alibi/AndroidStudioProjects/ToDoList/app/src/main/res/font/myfonts.xml" value="0.28958333333333336" />
         <entry key="..\:/Users/alibi/AndroidStudioProjects/ToDoList/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28177083333333336" />
+        <entry key="app/src/main/res/layout/fragment_to_do_list.xml" value="0.28177083333333336" />
       </map>
     </option>
   </component>
